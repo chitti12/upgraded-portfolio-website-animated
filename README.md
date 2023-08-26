@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React App (Contact form is not working properly)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
