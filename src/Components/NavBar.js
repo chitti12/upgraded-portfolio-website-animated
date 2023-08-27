@@ -42,9 +42,9 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
                 <div className="social-icon">
-                    <a href="#linkedIn"> <img src={navIcon1} alt="" /></a>
-                    <a href="#instagram"> <img src={navIcon2} alt="" /></a>
-                    <a href="#facebook"> <img src={navIcon3} alt="" /></a>
+                    <a href="www.linkedin.com/in/chittipriya-verma-985069199"> <img src={navIcon1} alt="" /></a>
+                    <a href="https://www.instagram.com/thekoalifiedone/"> <img src={navIcon2} alt="" /></a>
+                    <a href="https://www.facebook.com/chittipriya.verma"> <img src={navIcon3} alt="" /></a>
                 </div>
                 <button className="vvd" onClick={() => ('connect')}><span>Let's Connect</span></button>
             </span>
